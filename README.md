@@ -71,6 +71,7 @@ Example:
 
 ```
 ![Dashboard](images/dashboard.png)
+[Dashboard Preview]
 https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard/blob/main/Blinkit%20Project%20Dashboard.png
 
 
