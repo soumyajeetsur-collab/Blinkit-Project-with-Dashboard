@@ -67,7 +67,8 @@ It helps uncover **business insights, trends, and performance metrics** to suppo
 
 🚧 *Add screenshots here after uploading images to `/images` folder*
 
-Example:
+Example:<img width="824" height="464" alt="Blinkit Project Dashboard" src="https://github.com/user-attachments/assets/2c67861b-ae4d-426f-8dd3-80397e79aeb9" />
+
 
 ```
 ![Dashboard](images/dashboard.png)
