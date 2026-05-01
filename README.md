@@ -39,7 +39,7 @@ It helps uncover **business insights, trends, and performance metrics** to suppo
 📁 Blinkit-Sales-Dashboard
 │── 📊 Blinkit Project.pbit
 │── 📄 README.md
-│── 📷 images/ (add dashboard screenshots here)
+│── 📷 images/ ([add dashbocreenshots herard se](https://github.com/soumyajeetsur-collab/Blinkit-Project-with-Dashboard/blob/main/Blinkit%20Project%20Dashboard.png))
 ```
 
 ---
